@@ -1,21 +1,21 @@
 # intro-github
-# 👋 Hi, I'm Brian Crist
+#  Hi, I'm Brian Crist
 
 I'm an aspiring electrical engineer interested in RF and microwave systems, biosensors, applied phsyics, and scientific computing. I'm currently building my academic portfolio and developing skills in circuit simulation, numerical analysis, and scientific research.
 
-## 🧰 Skills and Interests
+## Skills and Interests
 
-- 🧠 Analog & Digital Circuits, VLSI
+- Analog & Digital Circuits, VLSI
 - Radio Frequency and Microwave Circuits
-- ⚙️ Simulation: LTspice, MATLAB, Simulink, Altium Designer, Virtuoso, ADM
-- 💻 Programming: Python (NumPy, Matplotlib, SymPy, SciPy), MATLAB, C, Verilog, LaTeX, Markdown, Git
+- Simulation: LTspice, MATLAB, Simulink, Altium Designer, Virtuoso, ADM
+- Programming: Python (NumPy, Matplotlib, SymPy, SciPy), MATLAB, C, Verilog, LaTeX, Markdown, Git
 
-## 📚 Recent Academic Work
+## Recent Academic Work
 
 - **Circuits I–II Lab Notebooks**: Oscilloscope use, filter design, op-amp experimentsysis
 - **Mathematical Modeling**: Solving ODE systems with matrix exponentials and Laplace transforms
 
-## 🔧 Current Projects
+## Current Projects
 
 - `Math-067-Fall2025`: COS Calculus 3
 - `18.01-review`: Solved problems and concept summaries for MIT Single Variable Calculus (OCW)
@@ -26,6 +26,6 @@ I'm an aspiring electrical engineer interested in RF and microwave systems, bios
 - `rf-lab-scripts`: Python tools for frequency sweep analysis and measurement automation
 - `biosensor-notes`: Reading and notes from bio-sensing amplifier papers
 
-## 📫 Contact
+## Contact
 
-- 📬 Email: brianmcrist01@gmail.com
+- Email: brianmcrist01@gmail.com
