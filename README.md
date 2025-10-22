@@ -1,4 +1,3 @@
-# intro-github
 #  Hi, I'm Brian Crist
 
 I'm an aspiring electrical engineer interested in RF and microwave systems, biosensors, applied phsyics, and scientific computing. I'm currently building my academic portfolio and developing skills in circuit simulation, numerical analysis, and scientific research.
