@@ -6,20 +6,18 @@ I'm an aspiring electrical engineer interested in RF and microwave systems, bios
 ## 🧰 Skills and Interests
 
 - 🧠 Analog & Digital Circuits, VLSI
-- 🔬 Microbiology Lab Techniques (PCR, aseptic technique)
+- Radio Frequency and Microwave Circuits
 - ⚙️ Simulation: LTspice, MATLAB, Simulink, Altium Designer, Virtuoso, ADM
 - 💻 Programming: Python (NumPy, Matplotlib, SymPy, SciPy), MATLAB, C, Verilog, LaTeX, Markdown, Git
 
 ## 📚 Recent Academic Work
 
-- **Circuits I–II Lab Notebooks**: Oscilloscope use, filter design, op-amp experiments
-- **Microbiology Techniques**: Gram staining, PCR workflows, bacterial culture analysis
+- **Circuits I–II Lab Notebooks**: Oscilloscope use, filter design, op-amp experimentsysis
 - **Mathematical Modeling**: Solving ODE systems with matrix exponentials and Laplace transforms
 
 ## 🔧 Current Projects
 
 - `Math-067-Fall2025`: COS Calculus 3
-- 'Engr-002-Fall2025`: Statics
 - `18.01-review`: Solved problems and concept summaries for MIT Single Variable Calculus (OCW)
 - `18.03-review`: Solved problems and concept summaries for MIT Differential Equations (OCW)
 - `2010-review`: Solved problems and concept summaries for ISU EE 2010
