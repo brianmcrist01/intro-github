@@ -17,7 +17,7 @@ I'm an aspiring electrical engineer interested in RF and microwave systems, bios
 ## Current Projects
 
 - `Math-067-Fall2025`: Calculus 3
-- 'Engineering-020-Fall2025': MATLAB Programming
+- `Engineering-020-Fall2025`: MATLAB Programming
 - `18.01-review`: Solved problems and concept summaries for MIT Single Variable Calculus (OCW)
 - `18.03-review`: Solved problems and concept summaries for MIT Differential Equations (OCW)
 - `2010-review`: Solved problems and concept summaries for ISU EE 2010
