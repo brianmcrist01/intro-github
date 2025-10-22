@@ -12,7 +12,7 @@ I'm an aspiring electrical engineer interested in RF and microwave systems, bios
 
 ## Recent Academic Work
 
-- **Circuits I–II Lab Notebooks**: Oscilloscope use, filter design, op-amp experimentsysis
+- **Circuits I–II Lab Notebooks**: Oscilloscope use, filter design, op-amps
 - **Mathematical Modeling**: Solving ODE systems with matrix exponentials and Laplace transforms
 
 ## Current Projects
