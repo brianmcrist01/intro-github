@@ -1,6 +1,6 @@
 #  Hi, I'm Brian Crist
 
-I'm an aspiring electrical engineer interested in RF and microwave systems, biosensors, applied phsyics, and scientific computing. I'm currently building my academic portfolio and developing skills in circuit simulation, numerical analysis, and scientific research.
+I'm an aspiring electrical engineer interested in RF and microwave systems, applied phsyics, and scientific computing. I'm currently building my academic portfolio and developing skills in circuit simulation, numerical analysis, and scientific research.
 
 ## Skills and Interests
 
@@ -24,7 +24,6 @@ I'm an aspiring electrical engineer interested in RF and microwave systems, bios
 - `2300-review`: Solved problems and concept summaries for ISU EE 2300
 - `6.100L-completion`: Solved problems and projects, listned to lectures for MIT Introduction to CS and Programming using Python (OCW)
 - `rf-lab-scripts`: Python tools for frequency sweep analysis and measurement automation
-- `biosensor-notes`: Reading and notes from bio-sensing amplifier papers
 
 ## Contact
 
