@@ -6,7 +6,7 @@ I'm an aspiring electrical engineer interested in RF and microwave systems, appl
 
 - Analog & Digital Circuits, VLSI
 - Radio Frequency and Microwave Circuits
-- Simulation: LTspice, MATLAB, Simulink, Altium Designer, Virtuoso, ADM
+- Simulation: LTspice, MATLAB, Simulink, CST Microwave Studio, ADS (Qucs-S)
 - Programming: Python (NumPy, Matplotlib, SymPy, SciPy), MATLAB, C, Verilog, LaTeX, Markdown, Git
 
 ## Recent Academic Work
