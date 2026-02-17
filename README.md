@@ -16,13 +16,10 @@ I'm an aspiring electrical engineer interested in RF and microwave systems, appl
 
 ## Current Projects
 
-- `Math-067-Fall2025`: Calculus 3
-- `Engineering-020-Fall2025`: MATLAB Programming
-- `18.01-review`: Solved problems and concept summaries for MIT Single Variable Calculus (OCW)
-- `18.03-review`: Solved problems and concept summaries for MIT Differential Equations (OCW)
+- `Math-0080-Spring2026`: Linear Algebra
+- `Engineering-004-Spring2026`: Circuits
 - `2010-review`: Solved problems and concept summaries for ISU EE 2010
 - `2300-review`: Solved problems and concept summaries for ISU EE 2300
-- `6.100L-completion`: Solved problems and projects, listned to lectures for MIT Introduction to CS and Programming using Python (OCW)
 - `rf-lab-scripts`: Python tools for frequency sweep analysis and measurement automation
 
 ## Contact
