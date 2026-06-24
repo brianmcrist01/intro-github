@@ -6,8 +6,8 @@ I'm an aspiring electrical engineer interested in RF and microwave systems, appl
 
 - Analog & Digital Circuits, VLSI
 - Radio Frequency and Microwave Circuits
-- Simulation: LTspice, MATLAB, Simulink, CST Microwave Studio, ADS (Qucs-S)
-- Programming: Python (NumPy, Matplotlib, SymPy, SciPy), MATLAB, C, Verilog, LaTeX, Markdown, Git
+- Simulation: LTspice, MATLAB, Simulink, CST Microwave Studio, Qucs-S
+- Programming: Python (NumPy, Matplotlib, SymPy, SciPy), MATLAB, C, Verilog, LaTeX, Markdown
 
 ## Recent Academic Work
 
@@ -16,10 +16,7 @@ I'm an aspiring electrical engineer interested in RF and microwave systems, appl
 
 ## Current Projects
 
-- `Math-0080-Spring2026`: Linear Algebra
-- `Engineering-004-Spring2026`: Circuits
-- `2010-review`: Solved problems and concept summaries for ISU EE 2010
-- `2300-review`: Solved problems and concept summaries for ISU EE 2300
+- `SSCS-Chipathon-2026`: Team A46: 20T SRAM bitcell and scan D flip-flop
 - `rf-lab-scripts`: Python tools for frequency sweep analysis and measurement automation
 
 ## Contact
