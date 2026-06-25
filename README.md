@@ -5,7 +5,8 @@ I'm an aspiring electrical engineer interested in RF and microwave systems, appl
 ## Skills and Interests
 
 - Analog & Digital Circuits, VLSI
-- Radio Frequency and Microwave Circuits
+- High-Frequency Circuits
+- Antennas
 - Microwave Passive Devices
 - Simulation: Xschem, KLayout, Charlib, Ngspice, LTSpice, Qucs-S, HFSS
 - Programming: Python (NumPy, Matplotlib, SymPy, SciPy), MATLAB, C, Verilog, LaTeX, Markdown
