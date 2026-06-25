@@ -17,7 +17,7 @@ I'm an aspiring electrical engineer interested in RF and microwave systems, appl
 
 ## Current Projects
 
-- `2026-SSCS-"PICO-Open-Source-Chipathon`: Team A46: 20T SRAM bitcell and scan D flip-flop
+- `2026-SSCS-"PICO-Open-Source-Chipathon`: Team A46: Standard Cell and RHRSE-20T SRAM Bit Cell
 - `rf-lab-scripts`: Python tools for frequency sweep analysis and measurement automation
 
 ## Contact
