@@ -13,9 +13,10 @@ I'm an aspiring electrical engineer interested in RF and microwave systems, appl
 
 ## Recent Academic Work
 
-- **Circuits I–II Lab Notebooks**: Oscilloscope use, filter design, op-amps
-- **Mathematical Modeling**: Solving ODE systems with matrix exponentials and Laplace transforms
-
+- **Circuits I Lab Notebook**: DC and AC ciruit analysis, filter design, op-amps, LRC circuits
+- **MATLAB Programming**: Data structures, MATLAB apps
+- **A Primer to Mathematical Optimization**: Convex sets and functions, unconstrained methods, Lagrangian Duality Theory 
+  
 ## Current Projects
 
 - `2026-SSCS-"PICO-Open-Source-Chipathon`: Team A46: Standard Cell and RHRSE-20T SRAM Bit Cell
