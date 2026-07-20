@@ -17,6 +17,7 @@ I'm an aspiring electrical engineer interested in RF and microwave systems, appl
 - **MATLAB Programming**: Data structures, MATLAB apps
 - **A Primer to Mathematical Optimization**: Convex sets and functions, unconstrained methods, Lagrangian Duality Theory
 - **Introduction to Convex Optimization**:
+optimization problems, least-squares, linear and quadratic programs, semidefinite programming, optimality conditions, and duality theory
   
 ## Current Projects
 
