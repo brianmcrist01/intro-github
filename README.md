@@ -15,7 +15,8 @@ I'm an aspiring electrical engineer interested in RF and microwave systems, appl
 
 - **Circuits I Lab Notebook**: DC and AC ciruit analysis, filter design, op-amps, LRC circuits
 - **MATLAB Programming**: Data structures, MATLAB apps
-- **A Primer to Mathematical Optimization**: Convex sets and functions, unconstrained methods, Lagrangian Duality Theory 
+- **A Primer to Mathematical Optimization**: Convex sets and functions, unconstrained methods, Lagrangian Duality Theory
+- **Introduction to Convex Optimization**:
   
 ## Current Projects
 
