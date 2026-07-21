@@ -18,6 +18,7 @@ I'm an aspiring electrical engineer interested in RF and microwave systems, appl
 - **A Primer to Mathematical Optimization**: comvex sets and functions, unconstrained methods, Lagrangian Duality Theory
 - **Introduction to Convex Optimization**:
 optimization problems, least-squares, linear and quadratic programs, semidefinite programming, optimality conditions, and duality theory
+- **JKU: Analog (Integrated) Circuit Design**:
   
 ## Current Projects
 
