@@ -9,7 +9,7 @@ I'm an aspiring electrical engineer interested in RF and microwave systems, appl
 - Antennas
 - Microwave Passive Devices
 - Simulation: Xschem, KLayout, Charlib, Ngspice, LTSpice, Qucs-S, HFSS
-- Programming: Python (NumPy, Matplotlib, SymPy, SciPy), MATLAB, C, Verilog, LaTeX, Markdown
+- Programming: Python (NumPy, Matplotlib, SymPy, SciPy), MATLAB, C, Verilog, LaTeX
 
 ## Recent Academic Work
 
