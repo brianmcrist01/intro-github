@@ -22,6 +22,7 @@ optimization problems, least-squares, linear and quadratic programs, semidefinit
 - **UCB: EECS 117: Electromagnetic Fields & Waves**:
 - **Microwave Engineering**:
 - **Communications or Communications with SDR**:
+- **JKU: Analog (Integrated) Circuit Design**:
   
 ## Current Projects
 
