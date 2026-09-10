@@ -17,7 +17,12 @@ I'm an aspiring electrical engineer interested in RF and microwave systems, appl
 optimization problems, least-squares, linear and quadratic programs, semidefinite programming, optimality conditions, and duality theory
 - **TAMU: ECEN 326: Electronic Circuits**:
 - **OCW.MIT: 6.003: Signals and Systems**:
-- **JKU: Analog (Integrated) Circuit Design (planned)**:
+
+- ## Planned Academic Work
+- **UCB: EECS 117: Electromagnetic Fields & Waves**:
+- **Microwave Engineering**:
+- **Communications**:
+  
 ## Current Projects
 
 - `2026-SSCS-"PICO-Open-Source-Chipathon`: Team A46: Standard Cell and RHRSE-20T SRAM Bit Cell
