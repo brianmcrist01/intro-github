@@ -17,12 +17,12 @@ I'm an aspiring electrical engineer interested in RF and microwave systems, appl
 - **MATLAB Programming**: data structures, MATLAB apps
 - **Introduction to Convex Optimization**:
 optimization problems, least-squares, linear and quadratic programs, semidefinite programming, optimality conditions, and duality theory
-- **JKU: Analog (Integrated) Circuit Design**:
-  
+- **TAMU: ECEN 326: Electronic Circuits**
+- **MIT: 6.003: Signals and Systems**
+- **JKU: Analog (Integrated) Circuit Design (planned)**
 ## Current Projects
 
 - `2026-SSCS-"PICO-Open-Source-Chipathon`: Team A46: Standard Cell and RHRSE-20T SRAM Bit Cell
-- `rf-lab-scripts`: Python tools for frequency sweep analysis and measurement automation
 
 ## Contact
 
