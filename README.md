@@ -21,7 +21,7 @@ optimization problems, least-squares, linear and quadratic programs, semidefinit
 - ## Planned Academic Work
 - **UCB: EECS 117: Electromagnetic Fields & Waves**:
 - **Microwave Engineering**:
-- **Communications**:
+- **Communications or COmmuunications with SDR**:
   
 ## Current Projects
 
