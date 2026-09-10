@@ -18,7 +18,7 @@ I'm an aspiring electrical engineer interested in RF and microwave systems, appl
 - **Introduction to Convex Optimization**:
 optimization problems, least-squares, linear and quadratic programs, semidefinite programming, optimality conditions, and duality theory
 - **TAMU: ECEN 326: Electronic Circuits**
-- **MIT: 6.003: Signals and Systems**
+- **OCW.MIT: 6.003: Signals and Systems**
 - **JKU: Analog (Integrated) Circuit Design (planned)**
 ## Current Projects
 
