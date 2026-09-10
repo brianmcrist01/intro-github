@@ -11,10 +11,8 @@ I'm an aspiring electrical engineer interested in RF and microwave systems, appl
 - Simulation: Xschem, KLayout, Charlib, Ngspice, LTSpice, Qucs-S, HFSS
 - Programming: Python (NumPy, Matplotlib, SymPy, SciPy), MATLAB, C, Verilog, LaTeX
 
-## Recent Academic Work
+## Current Academic Work
 
-- **Circuits I Lab Notebook**: DC and AC ciruit analysis, filter design, op-amps, LRC circuits
-- **MATLAB Programming**: data structures, MATLAB apps
 - **Introduction to Convex Optimization**:
 optimization problems, least-squares, linear and quadratic programs, semidefinite programming, optimality conditions, and duality theory
 - **TAMU: ECEN 326: Electronic Circuits**
