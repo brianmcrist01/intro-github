@@ -1,6 +1,6 @@
 #  Hi, I'm Brian Crist
 
-I'm an aspiring electrical engineer interested in RF and microwave systems, applied phsyics, and scientific computing. I'm currently building my academic portfolio and developing skills in circuit simulation, numerical analysis, and scientific research.
+I'm an aspiring electrical engineer interested in reactor design, RF and optical frequency systems, systems, applied phsyics, and scientific computing. I'm currently building my academic portfolio and developing skills in circuit simulation, numerical analysis, and scientific research.
 
 ## Skills and Interests
 
@@ -22,8 +22,6 @@ I'm an aspiring electrical engineer interested in RF and microwave systems, appl
 - **JKU: Analog (Integrated) Circuit Design**:
   
 ## Current Projects
-
-- `2026-SSCS-"PICO-Open-Source-Chipathon`: Team A46: Standard Cell and RHRSE-20T SRAM Bit Cell
 
 ## Contact
 
