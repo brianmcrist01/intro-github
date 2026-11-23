@@ -1,6 +1,6 @@
 #  Hi, I'm Brian Crist
 
-I'm an aspiring electrical engineer interested in reactor design, RF and optical frequency systems, systems, applied phsyics, and scientific computing. I'm currently building my academic portfolio and developing skills in circuit simulation, numerical analysis, and scientific research.
+I'm an aspiring electrical engineer interested in reactor design, RF and optical frequency systems, applied phsyics, and scientific computing. I'm currently building my academic portfolio and developing skills in circuit simulation, numerical analysis, and scientific research.
 
 ## Skills and Interests
 
