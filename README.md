@@ -13,10 +13,7 @@ I'm an aspiring electrical engineer interested in RF and microwave systems, appl
 
 ## Current Academic Work
 
-- **OCW.MIT: 6.079: Introduction to Convex Optimization**:
-optimization problems, least-squares, linear and quadratic programs, semidefinite programming, optimality conditions, and duality theory
-- **TAMU: ECEN 326: Electronic Circuits**:
-- **OCW.MIT: 6.003: Signals and Systems**:
+- **SELF-STUDY: Multivariable Calculus**
 
 - ## Planned Academic Work
 - **UCB: EECS 117: Electromagnetic Fields & Waves**:
